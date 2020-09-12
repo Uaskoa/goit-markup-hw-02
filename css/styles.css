@@ -147,4 +147,39 @@ body {
   color: rgba(255, 255, 255, 0.6);
 }
 
-/* ======END FOOTER====== */ ;
+/* ======END FOOTER====== */
+
+/* =======PORTFOLIO====== */
+
+.choice-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 625px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background: #f5f4fa;
+}
+.choice-btn:hover,
+.choice-btn:focus {
+  color: #ffffff;
+  background: #2196f3;
+}
+
+.portfolio-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.portfolio-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* ======= END PORTFOLIO====== */
