@@ -1,0 +1,150 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+}
+
+/* =======HEADER====== */
+.logo-dark {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  color: #000000;
+  text-decoration: none;
+}
+
+.logo-part {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.list-item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.143;
+  letter-spacing: 0.02em;
+  color: #212121;
+  text-decoration: none;
+  font-style: normal;
+}
+
+.list-item:hover,
+.list-item:focus {
+  color: #2196f3;
+}
+
+/* =======END HEADER====== */
+
+/* ======HERO====== */
+
+/* background-color временно для видимости белых букв */
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.367;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #2f303a;
+}
+
+.hero-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.875;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  background: #2196f3;
+  color: #ffffff;
+}
+/* ======END HERO====== */
+
+/* ======ADVANTAGES====== */
+.advantages-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.143;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.advantages-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* ======END ADVANTAGES====== */
+
+/* ======WHAT WE DO====== */
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.167;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+/* ======END WHAT WE DO====== */
+
+/* ======TEAM====== */
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.188;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.team-position {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.188;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/* ======END TEAM====== */
+
+/* ======FOOTER====== */
+.footer {
+  background: #2f303a;
+}
+
+.logo-light {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-address {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.footer-contacts {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* ======END FOOTER====== */ ;
