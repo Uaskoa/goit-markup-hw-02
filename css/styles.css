@@ -47,6 +47,10 @@ body {
   color: var(--accent-color);
 }
 
+.header-contacts {
+  color: var(--main-descriprion-color);
+}
+
 /* =======END HEADER====== */
 
 /* ======HERO====== */
